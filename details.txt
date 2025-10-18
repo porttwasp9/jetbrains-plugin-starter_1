@@ -1,0 +1,2 @@
+# Quick Thoughts
+Add script to audit and fix linting issues in one command
